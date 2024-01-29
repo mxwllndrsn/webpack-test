@@ -1,2 +1,3 @@
 # webpack-test
-webpack feature tests
+
+*test misc webpack features for ci/cd purposes etc*
