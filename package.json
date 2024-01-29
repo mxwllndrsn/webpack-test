@@ -4,6 +4,7 @@
   "description": "*test misc webpack features for ci/cd purposes etc*",
   "private": true,
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
