@@ -48,4 +48,15 @@ additionally, we can run webpack build through npm by editing `package.json` to 
   }
 ```
 
-webpack can then be invoked using `npm run build`.
+webpack can then be invoked w/ `npm run build`
+
+### output
+
+our test files are relatively simple, and successful output will show: 
+
+```console
+hello
+{ contents: 'resource_one contents' }
+{ contents: 'resource_two contents' }
+contents of object: resource_one contents
+```
